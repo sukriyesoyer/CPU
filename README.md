@@ -1,3 +1,5 @@
+#CSE3015-CPU
+
 We were expected to design and implement a processor which supports instruction set:
 (AND, ADD, LD, ST, ANDI, ADDI, CMP, JUMP, JE, JA, JB, JBE, JAE). Processor will have 16 bits address
 width and 16 bits data width. Processor will have 5 parts as follows. Register File will hold register values
