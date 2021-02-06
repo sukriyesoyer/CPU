@@ -1,4 +1,4 @@
-#CSE3015-CPU
+# CSE3015-CPU
 
 We were expected to design and implement a processor which supports instruction set:
 (AND, ADD, LD, ST, ANDI, ADDI, CMP, JUMP, JE, JA, JB, JBE, JAE). Processor will have 16 bits address
