@@ -13,3 +13,8 @@ address input. Arithmetic Logic Unit (ALU) will compute arithmetic operations AD
 Operands will be fetched from register+register or register+ immediate value. Result will be stored to
 the Register File. Control unit should produce proper signals to ALU according to instruction opcode
 (Every instruction should have distinct operational code). Detailed information about instructions is given CSE 315 Project 2020.pdf
+
+## Contributors :
+- Rümeysa Öztürk
+- Berra Mercan
+
